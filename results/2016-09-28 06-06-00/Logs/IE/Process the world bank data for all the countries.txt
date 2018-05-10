@@ -1,0 +1,28 @@
+INFO  World Bank web site opened 
+INFO  World Bank web site Home page was displayed. 
+INFO  Clicked on Countries from menu bar. 
+INFO  Countries page was displayed on World Bank web site. 
+INFO  All the Countries information was read and noted successfully! 
+INFO  Clicked on Home from menu bar. 
+INFO  World Bank web site Home page was displayed. 
+INFO   
+INFO   
+INFO  Top 3 countries as per population are listed below: 
+INFO  No. Country                   population 
+INFO  1.  China                     1.371 billion 
+INFO  2.  India                     1.311 billion 
+INFO  3.  United States of America  321.4 million 
+INFO   
+INFO   
+INFO  Top 3 countries as per GDP are listed below: 
+INFO  No. Country                   GDP 
+INFO  1.  United States of America  $17.95 trillion 
+INFO  2.  China                     $10.87 trillion 
+INFO  3.  Japan                     $4.123 trillion 
+INFO   
+INFO   
+INFO  Top 3 countries as per GDP Growth are listed below: 
+INFO  No. Country                   GDP Growth 
+INFO  1.  West Bank and Gaza        12.4% 
+INFO  2.  Ethiopia                  9.6% 
+INFO  3.  Eritrea                   8.7% 
